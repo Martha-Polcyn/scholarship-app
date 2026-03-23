@@ -1,0 +1,11 @@
+NIU,grades,faculty,specialization,enrollment_year,courses_completed,thesis_topic,library_fines_pln
+100101,"['4.5', '5.0', '4.0', '5.0', '3.5', '4.5', '5.0', '4.0', '3.0', '4.5', '5.0', '4.5']",Computer Science,Machine Learning,2023,"['Linear Algebra', 'Calculus', 'Data Structures']",Transformer models optimization,0.0
+100102,"['3.0', '3.5', '4.0', '3.0', '2.0', '3.0', '4.5', '3.5', '3.0', '4.0']",Mathematics,Financial Mathematics,2022,"['Probability', 'Statistics', 'Topology']",,15.5
+100103,"['5.0', '5.0', '4.5', '5.0', '5.0', '4.5', '4.0', '5.0', '5.0', '4.5', '5.0']",Computer Science,Software Engineering,2024,"['Introduction to Programming', 'Databases']",Microservices architecture,0.0
+100104,"['4.0', '4.5', '4.0', '3.5', '4.0', '4.5', '3.0', '4.0', '4.5']",Physics,Quantum Computing,2023,"['Quantum Mechanics', 'Electromagnetism']",Qubit coherence times,2.5
+100105,"['5.0', '5.0', '5.0', '4.5', '5.0', '5.0', '5.0', '4.5']",Computer Science,Artificial Intelligence,2022,"['Deep Learning', 'Reinforcement Learning']",RL in robotics,0.0
+100106,"['3.0', '2.0', '3.0', '3.5', '3.0', '4.0', '2.0', '3.0']",Biology,Genetics,2024,"['Cell Biology', 'Biochemistry']",,45.0
+100107,"['4.5', '4.5', '5.0', '4.0', '4.5', '5.0', '4.5', '4.5', '5.0']",Mathematics,Cryptography,2023,"['Number Theory', 'Abstract Algebra']",Post-quantum cryptography,0.0
+100108,"['4.0', '4.0', '3.5', '4.5', '4.0', '4.0', '5.0', '3.5']",Chemistry,Organic Chemistry,2022,"['Physical Chemistry', 'Spectroscopy']",Synthesis of novel polymers,12.0
+100109,"['5.0', '5.0', '5.0', '5.0', '5.0', '5.0', '5.0', '5.0', '5.0', '5.0']",Computer Science,Data Science,2023,"['Big Data', 'Cloud Computing']",Distributed training of LLMs,0.0
+100110,"['3.5', '4.0', '3.5', '3.0', '4.5', '4.0', '3.5', '3.5']",Physics,Astrophysics,2024,"['Astronomy', 'Classical Mechanics']",,5.0

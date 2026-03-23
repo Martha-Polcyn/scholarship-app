@@ -1,0 +1,102 @@
+[
+  {
+    "NIU": "100101",
+    "grades": ["4.5", "5.0", "4.0", "5.0", "3.5", "4.5", "5.0", "4.0", "3.0", "4.5", "5.0", "4.5"],
+    "faculty": "Computer Science",
+    "specialization": "Machine Learning",
+    "enrollment_year": 2023,
+    "courses_completed": ["Linear Algebra", "Calculus", "Data Structures"],
+    "thesis_topic": "Transformer models optimization",
+    "library_fines_pln": 0.0
+  },
+  {
+    "NIU": "100102",
+    "grades": ["3.0", "3.5", "4.0", "3.0", "2.0", "3.0", "4.5", "3.5", "3.0", "4.0"],
+    "faculty": "Mathematics",
+    "specialization": "Financial Mathematics",
+    "enrollment_year": 2022,
+    "courses_completed": ["Probability", "Statistics", "Topology"],
+    "thesis_topic": null,
+    "library_fines_pln": 15.50
+  },
+  {
+    "NIU": "100103",
+    "grades": ["5.0", "5.0", "4.5", "5.0", "5.0", "4.5", "4.0", "5.0", "5.0", "4.5", "5.0"],
+    "faculty": "Computer Science",
+    "specialization": "Software Engineering",
+    "enrollment_year": 2024,
+    "courses_completed": ["Introduction to Programming", "Databases"],
+    "thesis_topic": "Microservices architecture",
+    "library_fines_pln": 0.0
+  },
+  {
+    "NIU": "100104",
+    "grades": ["4.0", "4.5", "4.0", "3.5", "4.0", "4.5", "3.0", "4.0", "4.5"],
+    "faculty": "Physics",
+    "specialization": "Quantum Computing",
+    "enrollment_year": 2023,
+    "courses_completed": ["Quantum Mechanics", "Electromagnetism"],
+    "thesis_topic": "Qubit coherence times",
+    "library_fines_pln": 2.50
+  },
+  {
+    "NIU": "100105",
+    "grades": ["5.0", "5.0", "5.0", "4.5", "5.0", "5.0", "5.0", "4.5"],
+    "faculty": "Computer Science",
+    "specialization": "Artificial Intelligence",
+    "enrollment_year": 2022,
+    "courses_completed": ["Deep Learning", "Reinforcement Learning"],
+    "thesis_topic": "RL in robotics",
+    "library_fines_pln": 0.0
+  },
+  {
+    "NIU": "100106",
+    "grades": ["3.0", "2.0", "3.0", "3.5", "3.0", "4.0", "2.0", "3.0"],
+    "faculty": "Biology",
+    "specialization": "Genetics",
+    "enrollment_year": 2024,
+    "courses_completed": ["Cell Biology", "Biochemistry"],
+    "thesis_topic": null,
+    "library_fines_pln": 45.0
+  },
+  {
+    "NIU": "100107",
+    "grades": ["4.5", "4.5", "5.0", "4.0", "4.5", "5.0", "4.5", "4.5", "5.0"],
+    "faculty": "Mathematics",
+    "specialization": "Cryptography",
+    "enrollment_year": 2023,
+    "courses_completed": ["Number Theory", "Abstract Algebra"],
+    "thesis_topic": "Post-quantum cryptography",
+    "library_fines_pln": 0.0
+  },
+  {
+    "NIU": "100108",
+    "grades": ["4.0", "4.0", "3.5", "4.5", "4.0", "4.0", "5.0", "3.5"],
+    "faculty": "Chemistry",
+    "specialization": "Organic Chemistry",
+    "enrollment_year": 2022,
+    "courses_completed": ["Physical Chemistry", "Spectroscopy"],
+    "thesis_topic": "Synthesis of novel polymers",
+    "library_fines_pln": 12.0
+  },
+  {
+    "NIU": "100109",
+    "grades": ["5.0", "5.0", "5.0", "5.0", "5.0", "5.0", "5.0", "5.0", "5.0", "5.0"],
+    "faculty": "Computer Science",
+    "specialization": "Data Science",
+    "enrollment_year": 2023,
+    "courses_completed": ["Big Data", "Cloud Computing"],
+    "thesis_topic": "Distributed training of LLMs",
+    "library_fines_pln": 0.0
+  },
+  {
+    "NIU": "100110",
+    "grades": ["3.5", "4.0", "3.5", "3.0", "4.5", "4.0", "3.5", "3.5"],
+    "faculty": "Physics",
+    "specialization": "Astrophysics",
+    "enrollment_year": 2024,
+    "courses_completed": ["Astronomy", "Classical Mechanics"],
+    "thesis_topic": null,
+    "library_fines_pln": 5.0
+  }
+]
